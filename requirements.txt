@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+unstructured
+chromadb
+openai
+tiktoken
+opencv-python
+streamlit
+img2vec_pytorch
+# pysqlite3-binary
+sentence-transformers
+google-genai
+groq
